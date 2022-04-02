@@ -1,0 +1,5 @@
+//my log file
+	This is the first test 
+	Im testing how the function works
+	And if there are limitations to the function
+	Pretty cool huh ":)";123
