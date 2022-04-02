@@ -1,5 +1,4 @@
 12313//my log file
 	Thisss is the first test 
 	Im testing how the function works
-	And if there are limitations to the function
-	Pretty cool huh ":)";sssssss
+	And if there are 
